@@ -1,2 +1,2 @@
 # Streamlit2
-Expense TTracker
+Expense Tracker
