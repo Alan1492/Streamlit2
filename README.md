@@ -1,2 +1,2 @@
-# Streamlit2
+# Expense Tracker and Visualiser
 Expense Tracker
